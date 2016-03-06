@@ -1,6 +1,6 @@
 name: Methinks
 favicon: null
-layout_spectrum: 0.25044
+layout_spectrum: 1
 typography_spectrum: 0.07452929229475558
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#597175'
     - '#7c8eaf'
   brandStrength: 0.8188070757314563
-  lightness: 0.5
+  lightness: 0.8125
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose: []
