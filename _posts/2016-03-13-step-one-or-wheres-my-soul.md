@@ -6,25 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Step One (or Where's My Soul?)"
-datePublished: '2016-03-13T01:59:38.159Z'
-dateModified: '2016-03-13T01:58:53.405Z'
+datePublished: '2016-03-13T02:19:37.253Z'
+dateModified: '2016-03-13T02:19:20.398Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-13-step-one-or-wheres-my-soul.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-13-step-one-or-wheres-my-soul.md
-published: true
 url: step-one-or-wheres-my-soul/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/364e3441-d101-47cb-a76e-5c9691020d9c.jpg)
 
-Step One (or Where's My Soul?)
+**Step One (or Where's My Soul?)**
 
 I'd
 spent much too long in agony, desperate to mitigate the preoccupation of
@@ -59,11 +59,11 @@ life of mine that I wasn't seeing.  If I kept on at my wild attempts at
 salvation and perfection, I would become a jerry-rigged soul, comprised of
 Facebook memes, sections of books I'd read, advice from friends and foes,
 magazine articles, TED Talks, and wild machinations that I came up with all on
-my own. I needed to pull the Andon cord to notify management that I was a process error.  I needed help. I actually came to the terrifying realization that if I didn't stop, my entire life
+my own. I needed to pull the Andon cord to notify management that there was a process error in my soul.  I needed help. I actually came to the terrifying realization that if I didn't stop, my entire life
 would go by and I wouldn't have done a damn thing that I really wanted to
 do.
 
-But how does one take an inventory? 
+But how does one stop to take an inventory? 
 
 ****
 
@@ -82,7 +82,7 @@ think of nothing and you aren't supposed to hyperventilate which was good news f
 
 I also
 learned that I'm not insane, that the monotony and mutiny of my mind is a
-common phenomenon.  Meditation was Step One in my journey to
+common phenomenon. Meditation was Step One in my journey to
 stopping. It laid the foundation and
 what's come out of it is perplexing, sometimes shocking, and genuinely sort of
 magical. It is showing me my soul, one breath at a time.
@@ -94,8 +94,6 @@ Fortunately I have a teeny house so it shouldn't take me more than the
 prescribed 6 months to Kondo my entire house. The garage terrifies me though. I need courage.
 
 [][2]
-
-
 
 [0]: http://tidyingup.com/
 [1]: insightla.org
