@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Step One (or Where's My Soul?)"
-datePublished: '2016-03-13T04:30:55.084Z'
-dateModified: '2016-03-13T04:29:29.744Z'
+datePublished: '2016-03-13T04:34:06.138Z'
+dateModified: '2016-03-13T04:33:41.515Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-13-step-one-or-wheres-my-soul.md
@@ -26,14 +26,11 @@ _type: Article
 
 **Step One (or Where's My Soul?)**
 
-I'd
-spent much too long in agony, desperate to mitigate the preoccupation of not being enough.  Not smart
-enough, pretty enough, or just enough. To take care of that, I kept
-very busy, all the time. I even viewed sleep as an annoying requirement to staying alive.
+Busy, busy, busy!
 
 There
 is always something to do and I thought that if I kept doing things, then I
-would become better. 
+would become better, better, better. So much to solve, repair, create, and learn.  It goes on forever, doesn't it? 
 
 It's really an
 argument for quantity over quality and it was failing me. 
