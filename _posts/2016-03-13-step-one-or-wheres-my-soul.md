@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Step One (or Where's My Soul?)"
-datePublished: '2016-03-13T02:19:37.253Z'
-dateModified: '2016-03-13T02:19:20.398Z'
+datePublished: '2016-03-13T02:39:20.857Z'
+dateModified: '2016-03-13T02:39:04.803Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-13-step-one-or-wheres-my-soul.md
@@ -77,7 +77,7 @@ of nothing ("clear the mind") and it usually ended in snoring brought
 on by meditation-induced exhaustion.  
 
 So I
-enrolled in a beginning meditation class at [Insight LA ][1]in Santa Monica. I learned, first, how to meditate. I definitely had been doing it wrong. It turns out that you aren't supposed to
+enrolled in a beginning meditation class at [Insight LA ][1]\*\* in Santa Monica. I learned, first, how to meditate. I definitely had been doing it wrong. It turns out that you aren't supposed to
 think of nothing and you aren't supposed to hyperventilate which was good news for me.
 
 I also
@@ -92,6 +92,8 @@ be perfectly honest, when I Kondo'd my room, my life did change a little for
 the better. I highly recommend it.
 Fortunately I have a teeny house so it shouldn't take me more than the
 prescribed 6 months to Kondo my entire house. The garage terrifies me though. I need courage.
+
+\*\* If you are new to meditation or want to learn, I also recommend the Insight Timer App.  
 
 [][2]
 
