@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Step One (or Where's My Soul?)"
-datePublished: '2016-03-13T02:41:35.516Z'
-dateModified: '2016-03-13T02:41:34.744Z'
+datePublished: '2016-03-13T04:29:28.833Z'
+dateModified: '2016-03-13T04:21:01.171Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-13-step-one-or-wheres-my-soul.md
@@ -27,11 +27,9 @@ _type: Article
 **Step One (or Where's My Soul?)**
 
 I'd
-spent much too long in agony, desperate to mitigate the preoccupation of
-pretending to be confident and sane. But even more, I'd really been in a type
-of agony as far back as I could remember.  I was never good enough, smart
-enough, pretty enough, or just enough.  And to take care of that, I kept
-very busy, all the time, for my entire life. I even viewed sleep as an annoying requirement to staying alive.
+spent much too long in agony, desperate to mitigate the preoccupation of not being enough.  Not smart
+enough, pretty enough, or just enough. To take care of that, I kept
+very busy, all the time. I even viewed sleep as an annoying requirement to staying alive.
 
 There
 is always something to do and I thought that if I kept doing things, then I
@@ -45,7 +43,7 @@ through my mail (or not, as I generally choose to do). I can run errands. I can
 do laundry. I can exercise. I can look at dog rescue websites and contemplate
 what it would mean to have a dog again, even though I'm gone all day and my
 walls are a fresh paint of white. I can go to the market. I can do that
-assignment I told my boss I'd do this weekend. And now, I can even [Kondo][0]\* my house if I find that I have five
+assignment I told my boss I'd do over the weekend. And now, I can even [Kondo][0]\* my house if I find that I have five
 hours to kill. And if I'm not doing
 something, then I better get a move on or I will go into a panic and possibly
 die.
@@ -58,10 +56,9 @@ Missing something, I knew there was another perspective, another take on this
 life of mine that I wasn't seeing.  If I kept on at my wild attempts at
 salvation and perfection, I would become a jerry-rigged soul, comprised of
 Facebook memes, sections of books I'd read, advice from friends and foes,
-magazine articles, TED Talks, and wild machinations that I came up with all on
+magazine articles, TED Talks, Soul Sundays, and wild machinations that I came up with all on
 my own. I needed to pull the Andon cord to notify management that there was a process error in my soul.  I needed help. I actually came to the terrifying realization that if I didn't stop, my entire life
-would go by and I wouldn't have done a damn thing that I really wanted to
-do.
+would go by and I would have rushed through it.
 
 But how does one stop to take an inventory? 
 
@@ -82,18 +79,18 @@ think of nothing and you aren't supposed to hyperventilate which was good news f
 
 I also
 learned that I'm not insane, that the monotony and mutiny of my mind is a
-common phenomenon. Meditation was Step One in my journey to
+common phenomenon. Meditation was Step One on my journey to
 stopping. It laid the foundation and
-what's come out of it is perplexing, sometimes shocking, and genuinely sort of
+what's come out of it so far is perplexing, sometimes shocking, and ultimately kind of
 magical. It is showing me my soul, one breath at a time.
 
-\* To
+\* _To
 be perfectly honest, when I Kondo'd my room, my life did change a little for
 the better. I highly recommend it.
 Fortunately I have a teeny house so it shouldn't take me more than the
-prescribed 6 months to Kondo my entire house. The garage terrifies me though. I need courage.
+prescribed 6 months to Kondo my entire house. The garage terrifies me though. I need courage._
 
-\*\* If you are new to meditation or want to learn, I also recommend the Insight Timer App.  
+_\*\* If you are new to meditation or want to learn, I also recommend the Insight Timer App.  _
 
 [][2]
 
