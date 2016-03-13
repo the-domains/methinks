@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Step One (or Where's My Soul?)"
-datePublished: '2016-03-13T04:34:06.138Z'
-dateModified: '2016-03-13T04:33:41.515Z'
+datePublished: '2016-03-13T04:36:31.779Z'
+dateModified: '2016-03-13T04:34:08.050Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-13-step-one-or-wheres-my-soul.md
@@ -32,8 +32,8 @@ There
 is always something to do and I thought that if I kept doing things, then I
 would become better, better, better. So much to solve, repair, create, and learn.  It goes on forever, doesn't it? 
 
-It's really an
-argument for quantity over quality and it was failing me. 
+I think this is an
+argument for quantity over quality and it was failing me because I fell for it. 
 
 Filling time is not challenging. I can sort
 through my mail (or not, as I generally choose to do). I can run errands. I can
