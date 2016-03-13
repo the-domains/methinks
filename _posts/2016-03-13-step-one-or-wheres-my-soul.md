@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Step One (or Where's My Soul?)"
-datePublished: '2016-03-13T05:10:45.313Z'
-dateModified: '2016-03-13T04:48:08.708Z'
+datePublished: '2016-03-13T18:31:05.231Z'
+dateModified: '2016-03-13T18:30:35.599Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-13-step-one-or-wheres-my-soul.md
@@ -31,20 +31,15 @@ Busy, busy, busy!
 There
 is always something to do. Filling time is not challenging. I can sort through my mail (or not, as I generally choose to do). I can run errands. I can do laundry. I can exercise. I can look at dog rescue websites and contemplate what it would mean to have a dog again, even though I'm gone all day and my walls are a fresh paint of white. I can go to the market. I can do that assignment I told my boss I'd do over the weekend. I can hop onto free online courses and learn to code in Ruby. And now, I can even [Kondo][0]\* my house if I find that I have five hours to kill. And if I'm not doing something, then I better get a move on or I will go into a panic and possibly die.
 
-I thought that if I kept doing things and learning things, then I
-would become better, better, better. There is always so much to solve, repair, create, and learn.  It goes on forever, doesn't it? 
-
 I think this is an
-argument for quantity over quality and it was failing me because I fell for it. 
-
-It became obvious to me that I was going about things wrong. I was exhausted.
+argument for quantity over quality and it was failing me because I fell for it and was exhausted.
 
 Missing something, I knew there was another perspective, another take on this
 life of mine that I wasn't seeing.  If I kept on at my wild attempts at
 salvation and perfection, I would become a jerry-rigged soul, comprised of
 Facebook memes, sections of books I'd read, advice from friends and foes,
 magazine articles, TED Talks, Brene Brown (whom I love by the way), Soul Sundays, and wild machinations that I came up with all on
-my own. I needed to pull the Andon cord to notify management that there was a process error in my soul.  I needed help. I actually came to the terrifying realization that if I didn't stop, my entire life
+my own. I needed to pull the Andon cord to notify management that there was a process error in my soul.  I needed help. I came to the terrifying realization that if I didn't stop, my entire life
 would go by and I would have rushed through it. 
 
 But how does one stop to take an inventory? 
