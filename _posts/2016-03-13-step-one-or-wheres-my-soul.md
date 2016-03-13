@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Step One (or Where's My Soul?)"
-datePublished: '2016-03-13T02:39:20.857Z'
-dateModified: '2016-03-13T02:39:04.803Z'
+datePublished: '2016-03-13T02:41:35.516Z'
+dateModified: '2016-03-13T02:41:34.744Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-13-step-one-or-wheres-my-soul.md
@@ -31,11 +31,11 @@ spent much too long in agony, desperate to mitigate the preoccupation of
 pretending to be confident and sane. But even more, I'd really been in a type
 of agony as far back as I could remember.  I was never good enough, smart
 enough, pretty enough, or just enough.  And to take care of that, I kept
-very busy, all the time, for my entire life.
+very busy, all the time, for my entire life. I even viewed sleep as an annoying requirement to staying alive.
 
-I even viewed sleep as an annoying requirement to staying alive. There
+There
 is always something to do and I thought that if I kept doing things, then I
-would become better.
+would become better. 
 
 It's really an
 argument for quantity over quality and it was failing me. 
