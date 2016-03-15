@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Step One (or Where's My Soul?)"
-datePublished: '2016-03-13T18:31:05.231Z'
-dateModified: '2016-03-13T18:30:35.599Z'
+datePublished: '2016-03-15T01:45:55.329Z'
+dateModified: '2016-03-15T01:45:54.060Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-13-step-one-or-wheres-my-soul.md
@@ -70,10 +70,11 @@ the better. I highly recommend it.
 Fortunately I have a teeny house so it shouldn't take me more than the
 prescribed 6 months to Kondo my entire house. The garage terrifies me though. I need courage._
 
-_\*\* If you are new to meditation or want to learn, I also recommend the Insight Timer App.  _
+_\*\* If you are new to meditation or want to learn, I also recommend the [Insight Timer ][2]App.  _
 
-[][2]
+[][3]
 
 [0]: http://tidyingup.com/
 [1]: insightla.org
-[2]: https://www.insightla.org/
+[2]: https://insighttimer.com/
+[3]: https://www.insightla.org/
