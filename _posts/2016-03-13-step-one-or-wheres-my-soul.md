@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "Step One (or Where's My Soul?)"
-datePublished: '2016-03-15T01:45:55.329Z'
-dateModified: '2016-03-15T01:45:54.060Z'
+datePublished: '2016-03-16T04:47:50.559Z'
+dateModified: '2016-03-16T04:29:23.140Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-13-step-one-or-wheres-my-soul.md
