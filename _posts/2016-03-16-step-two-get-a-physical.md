@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '“Have you been under stress lately?” This was my doctor’s first question, a question that I expected. Many doctor visits are generally due to stress and I’d learned that most of mine are too. I knew this dance. Sometimes I would pre-empt his questions by saying: “Dr. G, I’m in hell right now so it’s very likely that the reason I think I have liver cancer is due to stress, but, I think I have liver cancer. Can you just confirm that I don’t so I can go on my way?”'
-datePublished: '2016-03-16T04:43:13.907Z'
-dateModified: '2016-03-16T04:42:52.770Z'
+datePublished: '2016-03-16T04:47:02.424Z'
+dateModified: '2016-03-16T04:43:15.186Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-16-step-two-get-a-physical.md
@@ -22,8 +22,9 @@ url: step-two-get-a-physical/index.html
 _type: Article
 
 ---
-**Step Two: Get a Physical **
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59eebfae-e383-4db0-a20e-4e95bcfb0414.jpg)
+
+**Step Two: Get a Physical **
 
 "Have you been under stress lately?" This was my doctor's first question, a question that I expected. Many doctor visits are generally due to stress and I'd learned that most of mine are too. I knew this dance. Sometimes I would pre-empt his questions by saying: "Dr. G, I'm in hell right now so it's very likely that the reason I think I have liver cancer is due to stress, but, I think I have liver cancer. Can you just confirm that I don't so I can go on my way?"
 
