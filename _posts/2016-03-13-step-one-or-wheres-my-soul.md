@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Step One (or Where's My Soul?)"
-datePublished: '2016-03-16T04:47:50.559Z'
-dateModified: '2016-03-16T04:29:23.140Z'
+datePublished: '2016-03-16T05:03:24.541Z'
+dateModified: '2016-03-16T04:47:57.106Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-13-step-one-or-wheres-my-soul.md
