@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '“Have you been under stress lately?” This was my doctor’s first question, a question that I expected. Many doctor visits are generally due to stress and I’d learned that most of mine are too. I knew this dance. Sometimes I would pre-empt his questions by saying: “Dr. G, I’m in hell right now so it’s very likely that the reason I think I have liver cancer is due to stress, but, I think I have liver cancer. Can you just confirm that I don’t so I can go on my way?”'
-datePublished: '2016-03-16T04:50:41.138Z'
-dateModified: '2016-03-16T04:47:09.189Z'
+datePublished: '2016-03-16T04:56:50.150Z'
+dateModified: '2016-03-16T04:50:50.042Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-16-step-two-get-a-physical.md
