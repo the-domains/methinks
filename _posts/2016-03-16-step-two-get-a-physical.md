@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Step Two: Get a Physical\_"
-datePublished: '2016-03-16T04:23:12.828Z'
-dateModified: '2016-03-16T04:22:15.483Z'
+datePublished: '2016-03-16T04:35:36.397Z'
+dateModified: '2016-03-16T04:35:23.437Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-16-step-two-get-a-physical.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-step-two-get-a-physical.md
-published: true
 url: step-two-get-a-physical/index.html
 _type: Article
 
@@ -26,13 +26,13 @@ _type: Article
 
 **Step Two: Get a Physical **
 
-"Have you been under stress lately?" This was my doctor's first question, a question that I expected. Many doctor visits are generally due to stress and I'd learned that most of mine were too. I knew this dance. Sometimes I would pre-empt his questions by saying: "Dr. G, I'm in hell right now so it's very likely that the reason I think I have liver cancer is due to stress, but, I think I have liver cancer. Can you just confirm that I don't so I can go on my way?"
+"Have you been under stress lately?" This was my doctor's first question, a question that I expected. Many doctor visits are generally due to stress and I'd learned that most of mine are too. I knew this dance. Sometimes I would pre-empt his questions by saying: "Dr. G, I'm in hell right now so it's very likely that the reason I think I have liver cancer is due to stress, but, I think I have liver cancer. Can you just confirm that I don't so I can go on my way?"
 
 Sometimes Dr. G would run all the tests I thought he should run, but usually he would only run a few of the basics: comprehensive blood panel, vitamin D, maybe estradiol, often thyroid. 99% of the tests he ever ran showed that I was in perfect health. My cholesterol was 'excellent', my blood pressure and heart rate were that of an athlete. I did not have cancer.
 
 "Not more than usual. What is stressing me out are these nightmares. Do you think I need a therapist? I also read that brain tumors or hypoglycemia could cause nightmares so it could be that."
 
-He didn't look up from his notes. He grunted and kept writing notes. I imagined what he was writing:
+He didn't look up from his notes. He grunted and kept writing. I imagined what he was writing:
 
 _Patient has been on WebMD again. Nightmares. Self DX: liver cancer, brain tumor, hypoglycemia. Clinical DX: depression/anxiety/stress._
 
@@ -50,9 +50,9 @@ He put his pen down, placed both hands on the table, let out a big sigh and said
 
 I know a lot about wine. I can name at least 200 grapes, where they come from, and what kind of wine they make. I believe, with all my soul, that wine is good for you. "I have 2.5 glasses of either a Rioja, a Reserva Chianti, or a Bordeaux on most nights. It's good for me."
 
-He sighed again. "So, before we do a battery of tests let's try some diet modifications. I want you to drink no more than one glass of wine with dinner, and to be honest, I'd prefer that you don't do that every night.I also want you to stop eating the ice cream and popcorn before bed. Do this for a month and let's meet again then to see where you are."
+He sighed again. "So, before we do a battery of tests let's try some diet modifications. I want you to drink no more than one glass of wine with dinner, and to be honest, I'd prefer that you don't do that every night. I also want you to stop eating the ice cream and popcorn before bed. Do this for a month and let's meet again then to see where you are."
 
-My face flushed. This made little sense to me. Didn't he read the articles that are published in_peer-reviewed journals_extolling the benefits of red wine?
+My face flushed. This made little sense to me. Didn't he read the articles that are published in _peer-reviewed journals _extolling the benefits of red wine?
 
 He said he did but that I could get the same results from eating a handful of red grapes. I begged to differ. There are also articles that say that alcohol itself seems to be beneficial in small quantities. He agreed, especially with 'small quantities'. He said 2.5 glasses each night is not a small quantity and could easily be the cause of nightmares because of the sugar drop it would cause in the middle of the night.
 
@@ -60,8 +60,8 @@ He said he did but that I could get the same results from eating a handful of re
 
 "I think you are depressed. What's going on?"
 
-I blinked back tears and told him that my boyfriend and I split after 10 years because he wanted children and I couldn't have them, and honestly, didn't want another child. I told him I wasn't sleeping. I told him I hated my job. I said, "I'm 44, I have a 27 year old son, I'm single, and I have no idea what to do with my life. But I'm not depressed. I'm just tired of the fight Dr. G. Oh, and I'm meditating now." A tear dropped onto the vinyl table and made a splat sound.
+I blinked back tears and told him that my boyfriend and I split after 10 years because he wanted children and I couldn't have them, and honestly, didn't want another child. I told him I wasn't sleeping. I told him I wasn't satisfied with my work. I said, "I'm 44, I have a 27 year old son, I'm single, and I have no idea what to do with my life. But I'm not depressed. I'm just tired of the fight Dr. G. Oh, and I'm meditating now." A tear dropped onto the vinyl table and made a splat sound.
 
-He stood up, walked back to the counter, and wrote some notes. Dr. G has no butt. I don't know his pants stay up, but they do. He sighed again, stared at his notes, and not looking up he said, "People don't do well alone. I see a lot of patients and I can tell you that people don't do well alone. I'm not saying that you need to start dating, that's your call, but everyone needs somebody." I love Dr. G. He looks out for me. 
+He stood up, walked back to the countertop, and wrote some notes. Dr. G has no butt. I don't know his pants stay up, but they do. He sighed again, stared at his notes, and not looking up he said, "People don't do well alone. I see a lot of patients and I can tell you that people don't do well alone. I'm not saying that you need to start dating, that's your call, but everyone needs somebody." I love Dr. G. He looks out for me. 
 
 I dried my tears, thanked him, and stood up. He said, "I haven't done the fecal blood test yet."
