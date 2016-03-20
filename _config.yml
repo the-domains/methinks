@@ -1,6 +1,6 @@
 name: Methinks
 favicon: null
-layout_spectrum: 0.75487
+layout_spectrum: 0.50354
 typography_spectrum: 0.50531
 title: The Year of Stopping Dangerously
 cta:
@@ -22,8 +22,8 @@ color:
     - '#232f00'
     - '#597175'
     - '#7c8eaf'
-  brandStrength: 0.1875
+  brandStrength: 0.5
   lightness: 0.8125
-  saturation: 0.75
-  rhythmicContrast: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
