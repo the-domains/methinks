@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '“Have you been under stress lately?” This was my doctor’s first question, a question that I expected. Many doctor visits are generally due to stress and I’d learned that most of mine are too. I knew this dance. Sometimes I would pre-empt his questions by saying: “Dr. G, I’m in hell right now so it’s very likely that the reason I think I have liver cancer is due to stress, but, I think I have liver cancer. Can you just confirm that I don’t so I can go on my way?”'
-datePublished: '2016-03-16T05:32:49.852Z'
-dateModified: '2016-03-16T04:56:52.047Z'
+datePublished: '2016-03-23T01:11:36.656Z'
+dateModified: '2016-03-23T01:11:09.354Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-16-step-two-get-a-physical.md
@@ -64,4 +64,6 @@ I blinked back tears and told him that my boyfriend and I split after 10 years b
 
 He stood up, walked back to the countertop, and wrote some notes. Dr. G has no butt. I don't know how his pants stay up, but they do. He sighed again, stared at his notes, and not looking up he said, "People don't do well alone. I see a lot of patients and I can tell you that people don't do well alone. I'm not saying that you need to start dating, that's your call, but everyone needs somebody." I love Dr. G. He looks out for me. 
 
-I dried my tears, thanked him, and stood up. He said, "I haven't done the fecal blood test yet."
+I dried my tears, thanked him, and stood up. He said, "I haven't done the fecal blood test yet." 
+
+March
