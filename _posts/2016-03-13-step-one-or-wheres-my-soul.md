@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Step One (or Where's My Soul?)"
-datePublished: '2016-03-16T05:19:53.173Z'
-dateModified: '2016-03-16T05:03:32.348Z'
+datePublished: '2016-03-23T01:10:49.175Z'
+dateModified: '2016-03-23T01:10:28.587Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-13-step-one-or-wheres-my-soul.md
@@ -71,6 +71,8 @@ Fortunately I have a teeny house so it shouldn't take me more than the
 prescribed 6 months to Kondo my entire house. The garage terrifies me though. I need courage._
 
 _\*\* If you are new to meditation or want to learn, I also recommend the [Insight Timer ][2]App.  _
+
+_March _
 
 [][3]
 
